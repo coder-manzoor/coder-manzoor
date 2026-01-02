@@ -1,39 +1,64 @@
 
 ![My Profile Image](1767363843031.jpg)
 
-## About Me
 
-```js
-class Developer {
-  constructor() {
-    this.name = "Ridwan";
-    this.alias = "codewithwan";
-    this.role = "Fullstack Developer";
-    this.languageSpoken = ["en_US", "code"];
-    this.currentlyExploring = "Microservices Architecture";
-  }
-  
-  sayHi() {
-    console.log("Thanks for dropping by! Let's build something epic together!");
-  }
-  
-  workWith() {
-    return {
-      frontEnd: {
-        frameworks: ["React", "Next.js"],
-        styling: ["Tailwind CSS"],
-        state: ["Redux", "Context API"],
-      },
-      backEnd: {
-        js: ["Node.js", "Express", "NestJS"],
-        php: ["Laravel"],
-      },
-      devOps: ["Docker", "Nginx", "GitHub Actions"],
-      architecture: ["Microservices", "Event-Driven", "RESTful APIs"]
-    };
-  }
-}
+### aboutMe.Js:
 
+```javascript
+const ManzoorAhmed = {
+    name: "Manzoor Ahmed",
+    github: "coder-manzoor",
+    pronouns: "he/him",
+    role: ["API Developer", "Telegram Bot Developer", "Web Developer"],
+
+    askMeAbout: [
+        "API Development",
+        "Telegram Bots",
+        "Web Development",
+        "Backend Logic",
+        "Automation"
+    ],
+
+    languages: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "Python"
+    ],
+
+    frameworksAndLibraries: {
+        frontend: [
+            "React.js",
+            "Next.js"
+        ],
+        backend: [
+            "PHP",
+            "Python"
+        ],
+        workers: [
+            "Cloudflare Workers (workers.js)"
+        ]
+    },
+
+    technologies: {
+        api: [
+            "REST APIs",
+            "Telegram Bot API"
+        ],
+        web: [
+            "Frontend Development",
+            "Backend Development"
+        ],
+        tools: [
+            "Git",
+            "GitHub"
+        ]
+    },
+
+    currentFocus: "Building scalable APIs & smart Telegram bots 🚀"
+};
+```
 // Initialize
 const ridwan = new Developer();
 ridwan.sayHi();

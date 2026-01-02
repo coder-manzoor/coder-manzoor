@@ -62,13 +62,13 @@ manzoor.sayHi();
 
 ## Connect Across the Multiverse
 <div align='center'>
-<a href="https://codewithwan.tech" target="_blank">
+<a href="https://t.me/BJ_Devs" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
 </a>
-<a href="https://codewithwan.tech" target="_blank">
+<a href="https://www.instagram.com/dr.manzoor__ahmed?igsh=YnJlM3JnM3M3NzJo" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
 </a>
-<a href="https://codewithwan.tech" target="_blank">
+<a href="https://t.me/BJ_Devs" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" />
 </a>
 

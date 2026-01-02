@@ -1,5 +1,5 @@
 
-![My Profile Image](https://i.ibb.co/YwvTJFg/1767363843031.png)
+![My Profile Image](1767363843031.jpg)
 
 ## About Me
 

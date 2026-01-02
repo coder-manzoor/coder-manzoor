@@ -24,13 +24,25 @@ const ManzoorAhmed = {
    tools: ["Workers.js"],  
    github: "coder-manzoor"  
 };
-```
-
 
 // Initialize
-const ridwan = new Developer();
-ridwan.sayHi();
+class Developer {
+   constructor(profile) {
+      this.profile = profile;
+   }
+
+   sayHi() {
+      console.log(
+         `Hi, I'm ${this.profile.github} 👋\n` +
+         `I build APIs, Telegram Bots, and modern web apps.`
+      );
+   }
+}
+
+const manzoor = new Developer(ManzoorAhmed);
+manzoor.sayHi();
 ```
+
 
 <br>
 

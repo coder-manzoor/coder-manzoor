@@ -2,7 +2,7 @@
 ![My Profile Image](1767363843031.jpg)
 
 
-### aboutMe.Js:
+### About Me
 
 ```javascript
 const ManzoorAhmed = {  

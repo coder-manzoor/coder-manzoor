@@ -5,58 +5,24 @@
 ### aboutMe.Js:
 
 ```javascript
-const ManzoorAhmed = {
-    name: "Manzoor Ahmed",
-    github: "coder-manzoor",
-    pronouns: "he/him",
-    role: ["API Developer", "Telegram Bot Developer", "Web Developer"],
-
-    askMeAbout: [
-        "API Development",
-        "Telegram Bots",
-        "Web Development",
-        "Backend Logic",
-        "Automation"
-    ],
-
-    languages: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "PHP",
-        "Python"
-    ],
-
-    frameworksAndLibraries: {
-        frontend: [
-            "React.js",
-            "Next.js"
-        ],
-        backend: [
-            "PHP",
-            "Python"
-        ],
-        workers: [
-            "Cloudflare Workers (workers.js)"
-        ]
-    },
-
-    technologies: {
-        api: [
-            "REST APIs",
-            "Telegram Bot API"
-        ],
-        web: [
-            "Frontend Development",
-            "Backend Development"
-        ],
-        tools: [
-            "Git",
-            "GitHub"
-        ]
-    },
-
-    currentFocus: "Building scalable APIs & smart Telegram bots 🚀"
+const ManzoorAhmed = {  
+   pronouns: "he" | "him",  
+   code: ["HTML", "JavaScript", "PHP", "Python"],  
+   askMeAbout: ["API Development", "Telegram Bots", "Web Development"],  
+   technologies: {  
+       frontEnd: {  
+           js: ["React.js", "Next.js"]  
+       },  
+       backEnd: {  
+           api: ["REST API", "Telegram Bot API"]  
+       },  
+       competitive: {  
+           compilerLang: ["PHP"],  
+           interpretedLang: ["Python", "JavaScript", "HTML"]  
+       }  
+   },  
+   tools: ["Workers.js"],  
+   github: "coder-manzoor"  
 };
 ```
 // Initialize
